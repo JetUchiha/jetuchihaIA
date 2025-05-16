@@ -1,0 +1,4 @@
+pyinstaller --onefile tts_bot.py
+
+
+python tts_bot.py Jet ciao come va
